@@ -1,5 +1,5 @@
 _repo: Works-of-John-Bunyan-Volume-02_6047
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -40,5 +40,6 @@ subjects:
 - !lcc 'BR'
 - !lcsh 'Christian literature, English'
 - !lcsh 'Bunyan, John, 1628-1688'
+- GITenberg
 title: Works of John Bunyan — Volume 02
 url: http://www.gutenberg.org/ebooks/6047
